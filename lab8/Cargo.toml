@@ -1,0 +1,7 @@
+[package]
+name = "hello-internet"
+version = "0.1.0"
+authors = ["Mike Martinez <brillozon@gmail.com>"]
+
+[dependencies.iron]
+version = "*"

@@ -1,0 +1,9 @@
+lab3data
+lab5data
+target
+*.lock
+*.gz
+*.tar
+*~
+*.bak
+*.*.swp
