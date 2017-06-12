@@ -4,6 +4,15 @@
 This lab walks through creating a COBOL command, then attaching that
 command to a ReST API.
 
+This lab also demonstrates development of working software applications
+without the need to install various dependencies on the development
+machine while still using the local disk for the development artifacts.
+This allows development using different environments without
+interference.
+
+This also demonstrates attaching a software application that has no
+native API mechanism to a ReST API.
+
 ## Develop the service
 
 The service consists of two parts: a COBOL command and a ReST API
