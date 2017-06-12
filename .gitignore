@@ -1,9 +1,12 @@
 lab3data
 lab5data
 target
+node_modules
 *.lock
 *.gz
 *.tar
+*.so
+*.o
 *~
 *.bak
 *.*.swp
