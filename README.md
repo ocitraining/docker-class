@@ -9,7 +9,7 @@ included in the course for learning the basics of Docker.
 
 #### Installation
 
-This is described on the [[Installation]] page.
+This is described on the [installation page](./Installation.md).
 
 #### Lab 1: Hello World
 
