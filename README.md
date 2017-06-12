@@ -9,7 +9,7 @@ included in the course for learning the basics of Docker.
 
 #### Installation
 
-Installation of Docker is defined very well at: LINK
+This is described on the [Installation] page.
 
 #### Lab 1: Hello World
 
