@@ -62,7 +62,7 @@ the container so that the COBOL libraries are available at run time.
 This is done using the `restify` _node.js_ module to provide route handling
 for the service.
 
-The file _service.js_:
+The file _server.js_:
 ```javascript
 var restify = require('restify');
 var exec    = require('child_process').execFile;
@@ -132,7 +132,7 @@ for use by the API.  Use the `npm` command to install these dependencies.
 In one window, start the API service:
 
 ```bash
-    node service.js
+    node server.js
 ```
 
 In another window, send GET requests to one of the routes:
